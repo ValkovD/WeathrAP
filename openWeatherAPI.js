@@ -1,6 +1,6 @@
 class OpenWeatherAPI {
   constructor() {
-    this.key = '353e849b8f59b7ff31d81af622d5ac1e';
+    this.key = '';
     this.defaultLat = 42.0582;
     this.defaultLon = 25.5916;
   }
