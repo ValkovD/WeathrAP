@@ -1,6 +1,6 @@
 class CityCoordinates {
   constructor() {
-    this.key = '353e849b8f59b7ff31d81af622d5ac1e';
+    this.key = ''; // put the API key here iside the quotes
     this.limit = 5;
   }
 

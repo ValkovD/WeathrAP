@@ -1,6 +1,6 @@
 class OpenWeatherAPI {
   constructor() {
-    this.key = '';// put the API key here iside the quotes
+    this.key = ''; // put the API key here iside the quotes
     this.defaultLat = 42.0582;
     this.defaultLon = 25.5916;
   }

@@ -4,9 +4,13 @@
 
 ### Create account and obtain api key it is free of charge
 
-### Copy the key generated and paste it in the quotes of this.key = ''; that is located in openWeatherAPI.js file. Then save and it will be good to go
+### Copy the key generated and paste it in the quotes of this.key = ''; that is located in openWeatherAPI.js file, and cityCoordinatesAPI.js Then save and it will be good to go
 
 ### class OpenWeatherAPI {
+###  constructor() {
+###    this.key = 'paste key in here';
+
+### class cityCoordinatesAPI.js {
 ###  constructor() {
 ###    this.key = 'paste key in here';
 
